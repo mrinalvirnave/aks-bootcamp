@@ -1,0 +1,17 @@
+apiVersion: networking.k8s.io/v1
+kind: Ingress
+metadata:
+  name: whereami
+  annotations:
+    kubernetes.io/ingress.class: nginx
+spec:
+  rules:
+    - host: insert any valid hostname here
+      http:
+        paths:
+          - pathType: ImplementationSpecific
+            backend:
+              service:
+                name: whereami
+                port:
+                  name: http

@@ -1,0 +1,7 @@
+resources:
+- ksa.yaml
+- deployment.yaml
+- configmap.yaml
+#- service-lb.yaml
+#- service-internal.yaml
+#- ingress.yaml

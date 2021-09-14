@@ -1,0 +1,3 @@
+
+aks_admin_username          = "aksadmin"
+aks_ssh_public_key          = "ssh-rsa AAAAB3NzaC1yc2EAAAADAQABAAABAQCxY7PRjFNJcqt7JUJTHYV95qbzZzk/BcCU+4KMHu+r5atSS2yleqE5YXuFk7LDkwmzp6f8TTu91/xMNgLhNtvFN8CTFbdZcyRLfFqsorQo6RPLJUxJ1xmPyghiLH3U5cnUyiyBWcJlActot7JkHwgS3rHsBmFnIKWZ/cAVW9cTBmiTmTHy2tmgNk38fwiFVW7ZetX+1X+g5ganHduCrJiSdhR9HdNsTmbtlkPGn7OOTBoICemO6R9EMlctUXFON2XiMijc1H/6FQnaOqRLkfH/WswrMfigz/zaD0uxzm8fiLBA0lXSx4dVlhURCHFd5MqQtr7eKbxq0ldyEstMCOJF mrinal.virnave@transactcampus.com"
