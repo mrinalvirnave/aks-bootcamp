@@ -3,5 +3,5 @@ resources:
 - deployment.yaml
 - configmap.yaml
 #- service-lb.yaml
-#- service-internal.yaml
-#- ingress.yaml
+- service-internal.yaml
+- ingress.yaml
